@@ -5,7 +5,7 @@ int main(){
 	char repeat;
 	cout<<"----Calculator----"<<endl;
 	cout<<"1)ADD"<<endl;
-	cout<<"2)SUSTRACT"<<endl;
+	cout<<"2)SUBTRACT"<<endl;
 	cout<<"3)MULTIPLY"<<endl;
 	cout<<"4)DIVIDE"<<endl;
 	cout<<"5)EXIT"<<endl;
