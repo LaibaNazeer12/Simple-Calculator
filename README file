@@ -1,7 +1,7 @@
-*C++ Calculator:*
+C++ Calculator:
 This is a simple calculator program written in C++ that performs basic arithmetic operations such as addition, subtraction, multiplication, and division.
 
-*Features:*
+Features:
 Addition: Adds two numbers.
 Subtraction: Subtracts one number from another.
 Multiplication: Multiplies two numbers.
